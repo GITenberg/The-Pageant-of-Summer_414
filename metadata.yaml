@@ -1,0 +1,26 @@
+_repo: The-Pageant-of-Summer_414
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jefferies, Richard
+    alias: Jefferies, John Richard
+    birthdate: 1848
+    deathdate: 1887
+    gutenberg_agent_id: '229'
+    url: http://www.gutenberg.org/2009/agents/229
+    wikipedia: http://en.wikipedia.org/wiki/Richard_Jefferies
+description: ''
+gutenberg_issued: '1996-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '414'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Nature study'
+- GITenberg
+title: The Pageant of Summer
+url: http://www.gutenberg.org/ebooks/414
